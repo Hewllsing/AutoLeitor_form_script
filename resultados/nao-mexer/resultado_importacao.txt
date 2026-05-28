@@ -1,0 +1,6 @@
+Importacao de propostas concluida.
+
+Novas propostas importadas: 1
+- danielteste.pdf -> linha 9
+
+Planilha: C:\Users\leonardo.souza\Desktop\new-proj\script-proposta-e-preenche-planilha\resultados\Analise comparativa preenchida.xlsx

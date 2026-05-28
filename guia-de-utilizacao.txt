@@ -1,0 +1,29 @@
+GUIA DE UTILIZACAO
+
+Esta pasta pode ser copiada para outra maquina.
+Mantenha sempre a estrutura das pastas como esta.
+
+1. Coloque os PDFs preenchidos dentro da pasta:
+   propostas
+
+2. Volte para esta pasta principal.
+
+3. Clique duas vezes em:
+   Importar propostas.vbs
+
+4. No fim, sera mostrada uma mensagem com o resultado da importacao.
+
+5. A planilha atualizada ficara em:
+   resultados\Analise comparativa preenchida.xlsx
+
+Observacoes:
+- O mesmo PDF nao e importado duas vezes.
+- A pasta resultados\nao-mexer guarda ficheiros internos do sistema.
+  Nao altere nem apague essa pasta.
+- A planilha modelo original fica em:
+  modelo\Analise comparativa 1.xlsx
+- O formulario PDF modelo fica em:
+  modelo\Informações Proposta 1.pdf
+- A maquina precisa ter Python 3 instalado.
+- As bibliotecas necessarias ja estao dentro de:
+  modelo\libs
