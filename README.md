@@ -6,7 +6,7 @@ O utilizador só precisa colocar os PDFs na pasta `propostas` e executar o fiche
 
 ## Estrutura do Projeto
 
-
+```
 script-proposta-e-preenche-planilha
 ├── Importar propostas.vbs
 ├── guia-de-utilizacao.txt
@@ -21,6 +21,7 @@ script-proposta-e-preenche-planilha
     └── nao-mexer
         ├── propostas_importadas.json
         └── resultado_importacao.txt
+```
 
 Como Utilizar
 Preencha o PDF de proposta.
